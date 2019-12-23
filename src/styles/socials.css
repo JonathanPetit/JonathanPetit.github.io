@@ -1,8 +1,10 @@
 .socials {
     padding: 10px;
+    display: inline-block;
 }
 
 .container-social {
     padding-top: 20px;
     text-align: center;
 }
+

@@ -8,7 +8,7 @@ const Info = () => (
       Jonathan Petit
     </h1>
 		<p className='study'>
-			Software engineer 2nd master.
+      2nd master software engineer, ECAM brussels.
 		</p>  
   </div>
 )
